@@ -1,30 +1,30 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shubham%20Sahu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Python%20Developer%20%7C%20Data%20Analyst&descAlignY=55&descSize=16" width="100%" />
+<h1>👋 Hi, I'm Shubham Sahu</h1>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=B.Tech+AIML+Student+%F0%9F%8E%93;Python+Developer+%F0%9F%90%8D;Data+Analytics+Enthusiast+%F0%9F%93%8A;ML+%26+AI+Explorer+%F0%9F%A4%96;DSA+Problem+Solver+%F0%9F%A7%A0;Hackathon+Participant+%F0%9F%9A%80" alt="Typing SVG" />
+<h3>🎓 B.Tech AIML Student &nbsp;|&nbsp; 🐍 Python Developer &nbsp;|&nbsp; 📊 Data Analytics Enthusiast &nbsp;|&nbsp; 🤖 AI Builder</h3>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
 <a href="https://www.linkedin.com/in/shubham-sahu-b72853327/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/techshubham99">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.kaggle.com/">
+&nbsp;
+<a href="https://www.kaggle.com/techshubham99">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:techshubhamsahu@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=techshubham99&label=Profile%20Views&color=6E40C9&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=techshubham99&label=Profile%20Views&color=6E40C9&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -42,13 +42,13 @@ class ShubhamSahu:
         self.focus       = ["Machine Learning", "Data Analytics", "DSA", "AI Projects"]
         self.platforms   = ["Kaggle", "GitHub", "Jupyter Notebook", "VS Code"]
         self.hackathons  = ["Smart India Hackathon (SIH)", "Multiple College Hackathons"]
-        self.motto       = "Consistency beats intensity. Small improvements every day lead to big results."
+        self.motto       = "Consistency beats intensity. Small improvements every day."
 
     def current_goals(self):
         return [
             "🧩 Solve 300+ DSA Problems",
             "🗄️  Master SQL & Database Design",
-            "📊 Build Data Analytics Portfolio",
+            "📊 Build a Strong Data Analytics Portfolio",
             "🤖 Learn Core Machine Learning",
             "💼 Secure an Internship / Placement"
         ]
@@ -75,7 +75,7 @@ class ShubhamSahu:
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ### 🗄️ Database
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -90,16 +90,12 @@ class ShubhamSahu:
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 | 🏷️ Project | 📝 Description | 🔧 Tech Stack | 🔗 Link |
-|-----------|---------------|--------------|---------|
-| 🐄 **PashuPehchan** | AI-powered breed recognition for Indian cattle & buffaloes — built for Smart India Hackathon | `React` `JavaScript` `Gemini AI` | [Live Demo ↗](https://pashu-pehchan.vercel.app/) |
-| 🏦 **Bank Management System** | Full-featured banking app with account creation, deposits, withdrawals & transactions | `Python` `OOP` | Coming Soon |
-| 📊 **Data Analysis Projects** | EDA, data cleaning, visualization & insight generation on real-world datasets | `Pandas` `Matplotlib` `Seaborn` | Coming Soon |
-| 🎓 **Capstone Project** | End-to-end AI/ML capstone project integrating data pipeline, model training & deployment | `Python` `ML` `Jupyter` | In Progress |
-
-</div>
+|:----------|:--------------|:-------------|:--------|
+| 🐄 **PashuPehchan** | AI-powered breed recognition for Indian cattle & buffaloes — SIH Project | `React` `JavaScript` `Gemini AI` | [Live Demo ↗](https://pashu-pehchan.vercel.app/) |
+| 🎓 **Capstone Project** | End-to-end AI/ML project with data pipeline, model training & deployment | `Python` `ML` `Jupyter` | In Progress |
+| 🏦 **Bank Management System** | Banking app with account creation, deposits, withdrawals & transactions | `Python` `OOP` | Coming Soon |
+| 📊 **Data Analysis Projects** | EDA, data cleaning & visualization on real-world datasets via Kaggle | `Pandas` `Matplotlib` `Seaborn` | Coming Soon |
 
 ---
 
@@ -107,12 +103,14 @@ class ShubhamSahu:
 
 <div align="center">
 
-🥇 **Smart India Hackathon (SIH)** — Project Participant  
-🤖 **PashuPehchan** — Live AI Breed Recognition App  
-📊 **Kaggle** — Competitive Data Science Notebooks & Competitions  
-🛠️ **Multiple Hackathon Participant** — Problem Solver under pressure  
-📈 **Consistent Learner** — AIML, DSA & Data Analytics every day  
-💻 **Active GitHub Builder** — Projects shipped, not just started  
+| 🏅 Achievement | 📌 Details |
+|:--------------|:----------|
+| 🚀 Smart India Hackathon | SIH Project Participant |
+| 🤖 PashuPehchan | Built & deployed a live AI Breed Recognition App |
+| 📊 Kaggle | Data Science notebooks, EDA & competitions |
+| 🛠️ Multiple Hackathons | Active participant & problem solver |
+| 📈 Consistent Learner | Daily practice — AIML, DSA & Data Analytics |
+| 💻 GitHub Builder | Projects shipped, not just started |
 
 </div>
 
@@ -122,14 +120,15 @@ class ShubhamSahu:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=techshubham99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techshubham99&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=techshubham99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techshubham99&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=techshubham99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=techshubham99&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
@@ -137,17 +136,13 @@ class ShubhamSahu:
 
 ## 📚 Currently Learning
 
-<div align="center">
-
 ```
-📌 Data Structures & Algorithms (LeetCode / GFG)
-📌 SQL — Queries, Joins, Aggregations, Subqueries
-📌 Machine Learning — Supervised & Unsupervised Models
-📌 Matplotlib & Seaborn — Advanced Visualization
-📌 Kaggle Competitions — Real-world Data Challenges
+📌 Data Structures & Algorithms  →  LeetCode / GeeksForGeeks
+📌 SQL                           →  Queries, Joins, Aggregations, Subqueries
+📌 Machine Learning              →  Supervised & Unsupervised Models
+📌 Matplotlib & Seaborn          →  Advanced Data Visualization
+📌 Kaggle                        →  Real-world Data Science Competitions
 ```
-
-</div>
 
 ---
 
@@ -156,7 +151,7 @@ class ShubhamSahu:
 <div align="center">
 
 | Goal | Status |
-|------|--------|
+|:-----|:-------|
 | 🧩 Solve 300+ DSA Problems | 🔄 In Progress |
 | 🗄️ Master SQL | 🔄 In Progress |
 | 📊 Build 5+ Data Analytics Projects | 🔄 In Progress |
@@ -168,11 +163,15 @@ class ShubhamSahu:
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/techshubham99/techshubham99/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techshubham99/techshubham99/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techshubham99/techshubham99/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/techshubham99/techshubham99/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -182,12 +181,14 @@ class ShubhamSahu:
 
 ### 💡 Motto
 
-*"Consistency beats intensity. Small improvements every day lead to big results."*
+> *"Consistency beats intensity. Small improvements every day lead to big results."*
 
 <br/>
 
-**⭐ Star my repos if you find them useful — it really motivates me to keep building!**
+**⭐ If you find my work useful, drop a star — it genuinely motivates me to keep building!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<br/>
+
+![Wave](https://img.shields.io/badge/Thanks%20for%20visiting!-6E40C9?style=for-the-badge)
 
 </div>
