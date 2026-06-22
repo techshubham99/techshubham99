@@ -14,11 +14,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.kaggle.com/techshubham99">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
 &nbsp;
-<a href="mailto:techshubhamsahu@gmail.com">
+<a href="mailto:techshubham@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -38,9 +35,9 @@ class ShubhamSahu:
         self.name        = "Shubham Sahu"
         self.degree      = "B.Tech — Artificial Intelligence & Machine Learning"
         self.location    = "India 🇮🇳"
-        self.languages   = ["Python", "JavaScript", "SQL", "HTML", "CSS"]
+        self.languages   = ["Python", "C", "C++", "JavaScript", "SQL", "HTML", "CSS"]
         self.focus       = ["Machine Learning", "Data Analytics", "DSA", "AI Projects"]
-        self.platforms   = ["Kaggle", "GitHub", "Jupyter Notebook", "VS Code"]
+        self.frameworks  = ["React.js", "Pandas", "NumPy", "Scikit-Learn"]
         self.hackathons  = ["Smart India Hackathon (SIH)", "Multiple College Hackathons"]
         self.motto       = "Consistency beats intensity. Small improvements every day."
 
@@ -62,17 +59,19 @@ class ShubhamSahu:
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📊 Data & ML
+### 🌐 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -82,7 +81,7 @@ class ShubhamSahu:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 </div>
 
@@ -95,24 +94,19 @@ class ShubhamSahu:
 | 🐄 **PashuPehchan** | AI-powered breed recognition for Indian cattle & buffaloes — SIH Project | `React` `JavaScript` `Gemini AI` | [Live Demo ↗](https://pashu-pehchan.vercel.app/) |
 | 🎓 **Capstone Project** | End-to-end AI/ML project with data pipeline, model training & deployment | `Python` `ML` `Jupyter` | In Progress |
 | 🏦 **Bank Management System** | Banking app with account creation, deposits, withdrawals & transactions | `Python` `OOP` | Coming Soon |
-| 📊 **Data Analysis Projects** | EDA, data cleaning & visualization on real-world datasets via Kaggle | `Pandas` `Matplotlib` `Seaborn` | Coming Soon |
+| 📊 **Data Analysis Projects** | EDA, data cleaning & visualization on real-world datasets | `Pandas` `Matplotlib` `Seaborn` | Coming Soon |
 
 ---
 
-## 🏆 Achievements & Highlights
-
-<div align="center">
+## 🏆 Achievements
 
 | 🏅 Achievement | 📌 Details |
 |:--------------|:----------|
-| 🚀 Smart India Hackathon | SIH Project Participant |
+| 🚀 Smart India Hackathon (SIH) | Project Participant |
 | 🤖 PashuPehchan | Built & deployed a live AI Breed Recognition App |
 | 📊 Kaggle | Data Science notebooks, EDA & competitions |
 | 🛠️ Multiple Hackathons | Active participant & problem solver |
-| 📈 Consistent Learner | Daily practice — AIML, DSA & Data Analytics |
 | 💻 GitHub Builder | Projects shipped, not just started |
-
-</div>
 
 ---
 
@@ -124,9 +118,7 @@ class ShubhamSahu:
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techshubham99&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=techshubham99&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
@@ -163,32 +155,19 @@ class ShubhamSahu:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techshubham99/techshubham99/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techshubham99/techshubham99/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/techshubham99/techshubham99/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 Motto
 
 > *"Consistency beats intensity. Small improvements every day lead to big results."*
 
-<br/>
+<div align="center">
 
-**⭐ If you find my work useful, drop a star — it genuinely motivates me to keep building!**
+<h1>Vibe Coding Is Real Fun!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
-<br/>
 
-![Wave](https://img.shields.io/badge/Thanks%20for%20visiting!-6E40C9?style=for-the-badge)
+
+</svg>
 
 </div>
