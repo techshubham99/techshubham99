@@ -1,8 +1,8 @@
 # Hi 👋, I'm Shubham Sahu
 
-### 🎓 B.Tech AIML Student | Python Developer | DSA Learner
+### 🎓 B.Tech AIML Student | Python Developer | Data Analytics Enthusiast | DSA Learner
 
-I'm a passionate Artificial Intelligence & Machine Learning student currently focused on strengthening my problem-solving skills through DSA and building projects using Python, NumPy, Pandas, and Data Analytics tools.
+I'm an Artificial Intelligence & Machine Learning student passionate about solving problems, building real-world projects, and exploring Data Analytics, Machine Learning, and Software Development.
 
 ---
 
@@ -11,34 +11,35 @@ I'm a passionate Artificial Intelligence & Machine Learning student currently fo
 * 🎓 B.Tech in Artificial Intelligence & Machine Learning
 * 🐍 Python Developer
 * 📊 Skilled in NumPy & Pandas
-* 📈 Learning Matplotlib & Seaborn
+* 📈 Matplotlib & Seaborn
 * 🗄️ Learning SQL
-* 🧠 Solving DSA Problems Daily
-* 🚀 Building Real-World Projects
+* 🧠 Practicing Data Structures & Algorithms Daily
+* 🚀 Building AI & Data Analytics Projects
+* 💡 Interested in AI, Machine Learning, Data Analytics & Software Development
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming
+### Programming Languages
 
 * Python
+* JavaScript
 * HTML
 * CSS
-* JavaScript
 
-### Data Analysis
+### Data Analytics
 
 * NumPy
 * Pandas
 * Matplotlib
 * Seaborn
 
-### Databases
+### Database
 
-* SQL (Learning)
+* SQL 
 
-### Tools
+### Tools & Technologies
 
 * Git
 * GitHub
@@ -47,37 +48,58 @@ I'm a passionate Artificial Intelligence & Machine Learning student currently fo
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🐄 PashuPehchan
-
-AI-powered breed recognition system for Indian cattle and buffaloes.
-
-### 🏦 Bank Management System
-
-Python-based banking application with account management functionalities.
-
-### 📊 Data Analysis Projects
-
-Data cleaning, exploration, and visualization using Pandas, Matplotlib, and Seaborn.
+| Project                   | Description                                                       | Tech Stack                   | Live Demo                         |
+| ------------------------- | ----------------------------------------------------------------- | ---------------------------- | --------------------------------- |
+| 🐄 PashuPehchan           | AI-powered breed recognition system for Indian cattle & buffaloes | React, JavaScript, Gemini AI | https://pashu-pehchan.vercel.app/ |
+| 🏦 Bank Management System | Banking management application with account operations            | Python                       | Coming Soon                       |
+| 📊 Data Analysis Projects | Data cleaning, visualization and analysis projects                | Pandas, Matplotlib, Seaborn  | Coming Soon                       |
 
 ---
 
-## 🎯 Current Goals
+## 🏆 Achievements
 
-* Complete SQL
-* Improve DSA Skills
-* Build Data Analytics Projects
+* 🚀 Smart India Hackathon (SIH) Project Participant
+* 🤖 Built PashuPehchan – AI Breed Recognition System
+* 📈 Consistently Learning Data Analytics & AIML Technologies
+* 💻 Active GitHub Learner & Project Builder
+
+---
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms (DSA)
+* SQL
+* Machine Learning
+
+---
+
+## 🎯 2026 Goals
+
+* Solve 300+ DSA Problems
+* Master SQL
+* Build Multiple Data Analytics Projects
 * Learn Machine Learning
-* Contribute to Open Source
+* Secure an Internship / Placement Opportunity
 
 ---
 
 ## 🌐 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/shubham-sahu-b72853327/](http://www.linkedin.com/in/shubham-sahu-b72853327/)
-* GitHub: github.com/techshubham99
+💼 LinkedIn:
+https://www.linkedin.com/in/shubham-sahu-b72853327/
+
+💻 GitHub:
+https://github.com/techshubham99
+
+📧 Email:
+[techshubhamsahu@gmail.com](mailto:techshubhamsahu@gmail.com)
 
 ---
 
-⭐ Consistency + Projects + DSA = Placement Success
+### 💡 Motto
+
+> "Consistency beats intensity. Small improvements every day lead to big results."
+
+⭐ Thanks for visiting my profile!
